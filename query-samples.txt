@@ -1,0 +1,36 @@
+Necesito saber cuáles son las plantas que tienen un daño mayor a 50 y cuestan menos de 150 soles.
+
+Genial, ahora dime en qué minijuegos está disponible la planta "Repeater".
+
+¿Y qué zombies aparecen en esos mismos minijuegos donde está "Repeater"?
+
+¿Hay alguna planta efectiva contra el Conehead Zombie?
+
+Quiero saber todos los minijuegos en los que participa la planta "Wall-nut"
+
+¿En cuáles partidas apareció el zombie Buckethead Zombie?
+
+Muéstrame todas las plantas que tienen un tipo igual a "Defensiva" y su daño.
+
+Quiero saber qué planta ha ganado más partidas y cuántas.
+
+Muéstrame los tres minijuegos con mayor variedad de zombies.
+
+Dame un listado con cada planta, el número de partidas que ha jugado, y su porcentaje de victorias.
+
+Quiero ver el rendimiento de las plantas contra un zombie específico, por ejemplo Conehead Zombie, incluyendo victorias y derrotas.
+
+¿Hay alguna planta que tenga un alto daño pero bajo uso en partidas? Dame el nombre, daño y cuántas veces ha sido usada.
+
+
+
+
+
+
+
+
+
+
+
+
+

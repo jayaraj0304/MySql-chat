@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-openai
+mysql-connector-python
+langchain_experimental
+langchain-google-genai
+python-dotenv
+pymysql
+sentence-transformers
