@@ -16,12 +16,6 @@ An interactive **Streamlit** application that connects to a **MySQL** database, 
 
 ---
 
-## 📽️ Screen Recorder
-
-https://github.com/user-attachments/assets/0004342f-e133-468a-a89b-997c4e99141f
-
----
-
 ## 🛠️ Requirements
 
 - Python 3.8 or higher
@@ -73,7 +67,7 @@ mysql-connector-python
 
 1. Fill in the connection credentials in the sidebar.
 2. Ask a question like:  
-   `"Quiero saber qué planta ha ganado más partidas y cuántas."`
+   `"Can i know the joins that are present in my database."`
 3. The app will generate the corresponding SQL and show the query results.
 
 ---
