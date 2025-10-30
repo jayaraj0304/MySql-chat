@@ -34,7 +34,7 @@ git clone https://github.com/your-username/chat-with-mysql.git
 cd chat-with-mysql
 ```
 
-2. **Install the dependencies using the following commands:**
+2. **Install the dependencies using the following commands below:**
 
 ```bash
 python -m venv .venv
