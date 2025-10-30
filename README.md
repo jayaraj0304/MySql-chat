@@ -21,6 +21,7 @@ An interactive **Streamlit** application that connects to a **MySQL** database, 
 - Python 3.8 or higher
 - MySQL Server (local or remote)
 - Active database connection
+- OpenAi Api key
 
 ---
 
